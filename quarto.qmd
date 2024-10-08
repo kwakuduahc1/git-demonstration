@@ -1,7 +1,7 @@
 ---
 title: "Document"
 author: "Kwaku"
-format: html
+format: docx
 ---
 
 ## Quarto
